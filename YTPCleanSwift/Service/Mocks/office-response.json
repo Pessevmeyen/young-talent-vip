@@ -1,0 +1,126 @@
+{
+  "offices": [
+    {
+      "address": "Esentepe Mah. Talatpaşa Cad. No: 5 (Harman Sok. Girişi) Levent / İstanbul",
+      "capacity": "0-5",
+      "id": 0,
+      "image": "https://www.abbamimarlik.com/wp-content/uploads/2022/02/mobven-ikinci-1.jpg",
+      "images": [
+        "https://www.mobven.com/wp-content/uploads/2022/06/Mobven-Payten-15-27.06.22-scaled.jpg",
+        "https://www.mobven.com/wp-content/uploads/2022/06/DSCF9972-scaled.jpg",
+        "https://www.mobven.com/wp-content/uploads/2022/06/DSCF0083-768x512.jpg",
+        "https://www.mobven.com/wp-content/uploads/2020/08/DSCF0163-scaled.jpg",
+        "https://www.mobven.com/wp-content/uploads/2022/06/DSCF9258-768x512.jpg",
+        "https://www.abbamimarlik.com/wp-content/uploads/2022/02/mobven-ikinci-1.jpg"
+      ],
+      "location": {
+        "latitude": 41.08107400020662,
+        "longitude": 29.009788711694544
+      },
+      "name": "Kollektif House Levent",
+      "rooms": 5,
+      "space": "100m2"
+    },
+    {
+      "address": "42 Maslak, Maslak Mah., Ahi Evran Cd. No:6 D:3, 34398 Maslak/İstanbul",
+      "capacity": "5-10",
+      "id": 1,
+      "image": "https://t3.ftcdn.net/jpg/04/02/80/04/240_F_402800442_ltObiLieP8DdNSNAxLlujYbD2pU7xKUY.jpg",
+      "images": [
+        "https://t4.ftcdn.net/jpg/03/84/55/29/240_F_384552930_zPoe9zgmCF7qgt8fqSedcyJ6C6Ye3dFs.jpg",
+        "https://t3.ftcdn.net/jpg/04/02/80/04/240_F_402800488_9bENl6swcD8WgRLQyMngYOn1zqEkWz5V.jpg",
+        "https://t3.ftcdn.net/jpg/04/02/80/04/240_F_402800442_ltObiLieP8DdNSNAxLlujYbD2pU7xKUY.jpg",
+        "https://t4.ftcdn.net/jpg/02/96/80/17/240_F_296801737_I4UqqRYC500Rr8r95VOdopXRdp22RGHZ.jpg",
+        "https://t3.ftcdn.net/jpg/03/68/74/44/240_F_368744427_D5Dm7FBXsOLf4Xzxbna1TokVx66TW1Ja.jpg"
+      ],
+      "location": {
+        "latitude": 41.114104,
+        "longitude": 29.022484
+      },
+      "name": "Kollektif House Maslak",
+      "rooms": 5,
+      "space": "125m2"
+    },
+    {
+      "address": "42 Maslak, Maslak Mah., Ahi Evran Cd. No:6 D:3, 34398 Kadıköy/İstanbul",
+      "capacity": "15-20",
+      "id": 2,
+      "image": "https://kolektifhouse.co/img/events/etkinlik-header-2.png",
+      "images": [
+        "https://www.mobven.com/wp-content/uploads/2022/06/DSCF9972-scaled.jpg",
+        "https://www.mobven.com/wp-content/uploads/2022/06/DSCF0083-768x512.jpg",
+        "https://www.mobven.com/wp-content/uploads/2020/08/DSCF0163-scaled.jpg",
+        "https://www.mobven.com/wp-content/uploads/2022/06/DSCF9258-768x512.jpg",
+        "https://t3.ftcdn.net/jpg/03/68/74/44/240_F_368744427_D5Dm7FBXsOLf4Xzxbna1TokVx66TW1Ja.jpg",
+        "https://kolektifhouse.co/img/events/etkinlik-header-2.png"
+      ],
+      "location": {
+        "latitude": 40.99395,
+        "longitude": 29.033761
+      },
+      "name": "Kollektif House Kadıköy",
+      "rooms": 10,
+      "space": "75m2"
+    },
+    {
+      "address": "42 Maslak, Maslak Mah., Ahi Evran Cd. No:6 D:3, 34398 Davutpaşa/İstanbul",
+      "capacity": "15-20",
+      "id": 3,
+      "image": "https://t3.ftcdn.net/jpg/04/02/80/04/240_F_402800442_ltObiLieP8DdNSNAxLlujYbD2pU7xKUY.jpg",
+      "images": [
+        "https://t4.ftcdn.net/jpg/03/84/55/29/240_F_384552930_zPoe9zgmCF7qgt8fqSedcyJ6C6Ye3dFs.jpg",
+        "https://t3.ftcdn.net/jpg/04/02/80/04/240_F_402800488_9bENl6swcD8WgRLQyMngYOn1zqEkWz5V.jpg",
+        "https://t3.ftcdn.net/jpg/04/02/80/04/240_F_402800442_ltObiLieP8DdNSNAxLlujYbD2pU7xKUY.jpg",
+        "https://t4.ftcdn.net/jpg/02/96/80/17/240_F_296801737_I4UqqRYC500Rr8r95VOdopXRdp22RGHZ.jpg",
+        "https://t3.ftcdn.net/jpg/03/68/74/44/240_F_368744427_D5Dm7FBXsOLf4Xzxbna1TokVx66TW1Ja.jpg"
+      ],
+      "location": {
+        "latitude": 41.019522,
+        "longitude": 28.8891
+      },
+      "name": "Kollektif House Davutpaşa",
+      "rooms": 2,
+      "space": "50m2"
+    },
+    {
+      "address": "42 Maslak, Maslak Mah., Ahi Evran Cd. No:6 D:3, 34398 Gaziosmanpaşa/İstanbul",
+      "capacity": "10-15",
+      "id": 4,
+      "image": "https://t4.ftcdn.net/jpg/02/96/80/17/240_F_296801737_I4UqqRYC500Rr8r95VOdopXRdp22RGHZ.jpg",
+      "images": [
+        "https://t4.ftcdn.net/jpg/03/84/55/29/240_F_384552930_zPoe9zgmCF7qgt8fqSedcyJ6C6Ye3dFs.jpg",
+        "https://t3.ftcdn.net/jpg/04/02/80/04/240_F_402800488_9bENl6swcD8WgRLQyMngYOn1zqEkWz5V.jpg",
+        "https://t3.ftcdn.net/jpg/04/02/80/04/240_F_402800442_ltObiLieP8DdNSNAxLlujYbD2pU7xKUY.jpg",
+        "https://t4.ftcdn.net/jpg/02/96/80/17/240_F_296801737_I4UqqRYC500Rr8r95VOdopXRdp22RGHZ.jpg",
+        "https://t3.ftcdn.net/jpg/03/68/74/44/240_F_368744427_D5Dm7FBXsOLf4Xzxbna1TokVx66TW1Ja.jpg"
+      ],
+      "location": {
+        "latitude": 41.059292,
+        "longitude": 28.930713
+      },
+      "name": "Kollektif House Gaziosmanpaşa",
+      "rooms": 4,
+      "space": "25m2"
+    },
+    {
+      "address": "42 Maslak, Maslak Mah., Ahi Evran Cd. No:6 D:3, 34398 Bakırköy/İstanbul",
+      "capacity": "5-10",
+      "id": 5,
+      "image": "https://t3.ftcdn.net/jpg/03/68/74/44/240_F_368744427_D5Dm7FBXsOLf4Xzxbna1TokVx66TW1Ja.jpg",
+      "images": [
+        "https://t4.ftcdn.net/jpg/03/84/55/29/240_F_384552930_zPoe9zgmCF7qgt8fqSedcyJ6C6Ye3dFs.jpg",
+        "https://t3.ftcdn.net/jpg/04/02/80/04/240_F_402800488_9bENl6swcD8WgRLQyMngYOn1zqEkWz5V.jpg",
+        "https://t3.ftcdn.net/jpg/04/02/80/04/240_F_402800442_ltObiLieP8DdNSNAxLlujYbD2pU7xKUY.jpg",
+        "https://t4.ftcdn.net/jpg/02/96/80/17/240_F_296801737_I4UqqRYC500Rr8r95VOdopXRdp22RGHZ.jpg",
+        "https://t3.ftcdn.net/jpg/03/68/74/44/240_F_368744427_D5Dm7FBXsOLf4Xzxbna1TokVx66TW1Ja.jpg"
+      ],
+      "location": {
+        "latitude": 40.993389,
+        "longitude": 28.875568
+      },
+      "name": "Kollektif House Bakırköy",
+      "rooms": 8,
+      "space": "100m2"
+    }
+  ]
+}
